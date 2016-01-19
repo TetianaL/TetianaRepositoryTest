@@ -5,8 +5,8 @@
 
 #x = input("Startwert x1: ")
 
-#a = 2
-#x=1
+a = 2
+x=1
 
 print ("Iteration  Näherungswert")
 

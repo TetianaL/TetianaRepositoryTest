@@ -1,9 +1,9 @@
 # wurzel.py
 
 
-a = input("Zu berechnende Quadratwurzel: ")
+#a = input("Zu berechnende Quadratwurzel: ")
 
-x = input("Startwert x1: ")
+#x = input("Startwert x1: ")
 
 #a = 2
 #x=1
